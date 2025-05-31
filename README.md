@@ -8,16 +8,16 @@ This project is a simple Java desktop application for managing a small database 
 
 **Features**  
 1-User Management:  
-User registration and login   
-Admin login with special privileges 
+  -User registration and login   
+  -Admin login with special privileges 
 
 2-For Users:  
-View available cars  
-Purchase a car  
+  -View available cars  
+  -Purchase a car  
 
 3-For Admins: 
-Add new cars to the system  
-View list of registered users   
+  -Add new cars to the system  
+  -View list of registered users   
 
 
 
