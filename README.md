@@ -15,7 +15,7 @@ This project is a simple Java desktop application for managing a small database 
   -View available cars  
   -Purchase a car  
 
-3-For Admins: 
+3-For Admins:    
   -Add new cars to the system  
   -View list of registered users   
 
